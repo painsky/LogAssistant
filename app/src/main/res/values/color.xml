@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="font_white">#effafe</drawable>
+    <drawable name="top_selected_bg">#dfe9ab</drawable>
+    <drawable name="top_green">#AEC92D</drawable>
+    <color name="top_green">#AEC92D</color>
+    <color name="top_selected_bg">#dfe9ab</color>
+    <color name="font_white">#effafe</color>
+    </resources>
